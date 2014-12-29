@@ -1,6 +1,6 @@
 # TINYPy
 
-**See also the [english version](en/TINYPy.md).**
+**See also the [english version](../../en/assignments/final-project/TINYPy.md).**
 
 **TINYPy foi a linguagem utilizada na disciplina *Compiladores I*, [MAB 471](http://www.dcc.ufrj.br/~fabiom/comp), do professor [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom) do departamento de Ciência da Computação da Universidade Federal do Rio de Janeiro.**
 

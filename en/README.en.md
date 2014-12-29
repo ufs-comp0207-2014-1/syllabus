@@ -1,6 +1,6 @@
 # Formal Languages and Compilers Syllabus
 
-***See the [brazilian portuguese version](README.md).***
+***Veja a [versão em português](../README.md).***
 
 * **Course:** [Comp0207, Dcomp/UFS](https://www.sigaa.ufs.br/sigaa/public/curso/turmas.jsf?lc=pt_BR&id=320120)
 * **Instructor:** Gabriel Araujo, [**gabrielaraujof** at *outlook.com.br*](mailto:gabrielaraujof@outlook.com.br)
@@ -11,6 +11,6 @@
 
 ## Development Projects
 
-#### Compiler for the language [TINYPy](assignments/final-project/en/TINYPy.md)
+#### Compiler for the language [TINYPy](assignments/final-project/TINYPy.md)
 
 Building a compiler for the language TINYPy &mdash; a very simple language which mixes the identation-based sintax of Python. See [here](assignments/final-project/description.md) the project specification in details.
