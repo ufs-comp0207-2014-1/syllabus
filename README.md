@@ -8,3 +8,9 @@ Plano de curso da disciplina *Linguagens Formais e Compiladores* na UFS (Brasil)
 * **Precisa de ajuda?**
    * Consulte e crie [issues](https://github.com/ufs-comp0207-2014-1/syllabus/issues)
    * [Email](mailto:gabrielaraujof@outlook.com.br) para ajuda individual, ou agende um horário de atendimento.
+
+## Projetos de desenvolvimento
+
+#### Compilador para a linguagem [TINYPy](assignments\final-project\TINYPy.md)
+
+Desenvolvimento de um compilador para a linguagem TINYPy &mdash; uma linguagem simples e que mixa a sintaxe baseada em identação do Python. Veja [aqui]() a especificação do projeto em detalhes.s 
