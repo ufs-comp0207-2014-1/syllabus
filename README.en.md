@@ -7,3 +7,10 @@
 * **Need help?**
    * Look through and create [issues](https://github.com/ufs-comp0207-2014-1/syllabus/issues)
    * [Email](mailto:gabrielaraujof@outlook.com.br) for 1-on-1 help, or to set up a time to meet.
+
+
+## Development Projects
+
+#### Compiler for the language [TINYPy](assignments/final-project/en/TINYPy.md)
+
+Building a compiler for the language TINYPy &mdash; a very simple language which mixes the identation-based sintax of Python. See [here](assignments/final-project/description.md) the project specification in details.

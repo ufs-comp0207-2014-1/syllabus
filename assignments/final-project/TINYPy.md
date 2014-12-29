@@ -1,5 +1,7 @@
 # TINYPy
 
+**See also the [english version](en/TINYPy.md).**
+
 **TINYPy foi a linguagem utilizada na disciplina *Compiladores I*, [MAB 471](http://www.dcc.ufrj.br/~fabiom/comp), do professor [Fabio Mascarenhas](http://www.dcc.ufrj.br/~fabiom) do departamento de Ciência da Computação da Universidade Federal do Rio de Janeiro.**
 
 TINYPy é uma mistura da linguagem TINY (do livro [*Compiler Construction: Principles and Practice*]() de Kenneth C. Louden) com Python, juntando a sintaxe baseada em identação de Python com a simplicidade de TINY, adicionando tipos simples (inteiros e booleanos) e funções.
