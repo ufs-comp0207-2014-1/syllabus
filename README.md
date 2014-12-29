@@ -1,4 +1,4 @@
-# Plano de curso
+# Plano de curso de *Linguagens Formais e Compiladores*
 
 Plano de curso da disciplina *Linguagens Formais e Compiladores* na UFS (Brasil).
 #### See also the [english version](README.en.md).
