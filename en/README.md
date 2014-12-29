@@ -1,5 +1,6 @@
-# Formal Languages and Compilers Syllabus
+# Syllabus
 
+Syllabus of the *Formal Languages and Compilers* course at UFS (Brazil).
 ***Veja a [versão em português](../README.md).***
 
 * **Course:** [Comp0207, Dcomp/UFS](https://www.sigaa.ufs.br/sigaa/public/curso/turmas.jsf?lc=pt_BR&id=320120)
