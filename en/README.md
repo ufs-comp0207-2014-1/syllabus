@@ -10,8 +10,8 @@ Syllabus of the *Formal Languages and Compilers* course at UFS (Brazil).
    * [Email](mailto:gabrielaraujof@outlook.com.br) for 1-on-1 help, or to set up a time to meet.
 
 
-## Development Projects
+## Assignments
 
-#### Compiler for the language [TINYPy](assignments/final-project/TINYPy.md)
+#### Compiler for the language [TINYPy](https://github.com/ufs-comp0207-2014-1/tinypy-compiler/TINYPy.md)
 
-Building a compiler for the language TINYPy &mdash; a very simple language which mixes the identation-based sintax of Python. See [here](assignments/final-project/description.md) the project specification in details.
+Building a compiler for the language TINYPy &mdash; a very simple language which mixes the identation-based sintax of Python. See [here](https://github.com/ufs-comp0207-2014-1/tinypy-compiler) the project specification in details.
