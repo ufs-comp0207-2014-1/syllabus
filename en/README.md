@@ -12,6 +12,6 @@ Syllabus of the *Formal Languages and Compilers* course at UFS (Brazil).
 
 ## Assignments
 
-#### Compiler for the language [TINYPy](https://github.com/ufs-comp0207-2014-1/tinypy-compiler/TINYPy.md)
+#### Compiler for the language *TINYPy*
 
 Building a compiler for the language TINYPy &mdash; a very simple language which mixes the identation-based sintax of Python. See [here](https://github.com/ufs-comp0207-2014-1/tinypy-compiler) the project specification in details.

@@ -11,6 +11,6 @@ Plano de curso da disciplina *Linguagens Formais e Compiladores* na UFS (Brasil)
 
 ## Trabalhos
 
-#### Compilador para a linguagem [TINYPy](https://github.com/ufs-comp0207-2014-1/tinypy-compiler/TINYPy.md)
+#### Compilador para a linguagem *TINYPy*
 
 Desenvolvimento de um compilador para a linguagem TINYPy &mdash; uma linguagem simples e que mixa a sintaxe baseada em identação do Python. Veja [aqui](https://github.com/ufs-comp0207-2014-1/tinypy-compiler) a especificação do projeto em detalhes.
